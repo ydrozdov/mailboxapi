@@ -160,7 +160,7 @@
 
 * **URL**
 
-  /api/archivex/:uid
+  /api/archive/:uid
 
 * **Method:**
 
